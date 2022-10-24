@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="567ad263-d67f-484a-a729-57b0c7a91968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/Binary search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/BinarySearchin2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/FirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/InfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/Sortedmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/celing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/src/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codechef_Questions/Codechef_Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codechef_Questions/IPCCERT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/src/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_questions/Random_questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Maximum_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/Maximunsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/cyclicsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/missingnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/src/selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/operatores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/src/stringbuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Learning/Java_Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solutions/src/out/production/Solutions/Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/array-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/ArraysList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/MultiArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/passingfunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/rollno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array-1/src/twoDarrys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn1/learn1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search/Binary-search/.idea/Binary-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search/Binary-search/Binarysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search/Binary-search/OrderAgnostics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search/Binary-search/out/production/Binary-search/.idea/Binary-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../search/Linear_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solutions/src/TSTROBOT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Solutions/src/TSTROBOT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cw3OzGw36enSXh1qkO3kXyHvNa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tajba\Downloads\Java prog\Java\Random_questions\src" />
+      <recent name="C:\Users\tajba\Downloads\Java prog\Java\String\src" />
+      <recent name="C:\Users\tajba\Downloads\Java prog\Java\Sorting\src" />
+      <recent name="C:\Users\tajba\Downloads\Java prog\Java\Binary search\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.poblem1">
+    <configuration name="Shuffle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle" />
+      <module name="Random_questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flipping" />
+      <module name="Random_questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poblem1" />
+      <module name="Codechef_Questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="split" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.poblem1" />
+        <item itemvalue="Application.flipping" />
+        <item itemvalue="Application.Shuffle (1)" />
+        <item itemvalue="Application.Shuffle" />
+        <item itemvalue="Application.split" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="567ad263-d67f-484a-a729-57b0c7a91968" name="Changes" comment="" />
+      <created>1659699793541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659699793541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary search/src/InfiniteArray.java</url>
+          <line>21</line>
+          <properties class="InfiniteArray" method="binarysearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Binary search/src/InfiniteArray.java</url>
+          <line>7</line>
+          <properties class="InfiniteArray" method="ans">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Patterns/src/Pattern1.java</url>
+          <line>7</line>
+          <properties class="Pattern1" method="pattern6">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Binary search/src/InfiniteArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Binary search/src/BinarySearchin2D.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting/src/cyclicsort.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting/src/cyclicsort.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting/src/cyclicsort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Patterns/src/Pattern1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
