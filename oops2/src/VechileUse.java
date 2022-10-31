@@ -1,14 +1,14 @@
-public class VechileUse {
+public class VechileUse i{
     public static void main(String[] args) {
         Vechile s = new Vechile();
         s.print();
         Object o = new car();
-        o.
-
+//        o.
+//
         car c = new car();
        // c.colour = "Black";
         c.setColour("Balck");
-        c.maxspd = 45;
+//        c.maxspd = 45;
         //c.maxdoores = 4;
       //  System.out.println("Doores : " +c.maxdoores);
       //  c.print();

@@ -1,4 +1,5 @@
 public class Vechile {
+
    private String colour;
 
    public String get(){
@@ -6,6 +7,9 @@ public class Vechile {
    }
    public void setColour(String colou){
        this.colour=colou;
+   }
+   public  boolean  isMoterised(){
+       return true;
    }
     int maxspd;
     public void print(){
