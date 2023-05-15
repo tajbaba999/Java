@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManupliation/BitManupliation.iml" filepath="$PROJECT_DIR$/BitManupliation/BitManupliation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Learning/Java_Learning.iml" filepath="$PROJECT_DIR$/Java_Learning/Java_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daysproblems_25/Random2.iml" filepath="$PROJECT_DIR$/Daysproblems_25/Random2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-1/array-1.iml" filepath="$PROJECT_DIR$/array-1/array-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/fraction/fraction.iml" filepath="$PROJECT_DIR$/fraction/fraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn1/learn1.iml" filepath="$PROJECT_DIR$/learn1/learn1.iml" />

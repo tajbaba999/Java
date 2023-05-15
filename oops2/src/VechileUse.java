@@ -1,4 +1,4 @@
-public class VechileUse i{
+public class VechileUse {
     public static void main(String[] args) {
         Vechile s = new Vechile();
         s.print();
